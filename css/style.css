@@ -1,0 +1,14 @@
+
+h1{
+    color:lightblue;
+}
+p{
+    background-color: pink;
+}
+p#intro{
+    background-color: hotpink;
+}
+body{
+    background-image: url(../img/jo-bonten-i-can-put-my-hand-through-it.gif);
+}
+
